@@ -1,4 +1,4 @@
-endpoint:
-  url:
-    aws: "localhost:8080/aws/"
-    azure: "localhost:8080/azure/"
+config:
+  git:
+    endereco: github.com
+    timeout: 3000
