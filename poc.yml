@@ -2,3 +2,4 @@ config:
   git:
     endereco: github.com
     timeout: 7000
+    refresh: 9
