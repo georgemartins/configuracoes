@@ -1,5 +1,5 @@
 config:
   git:
     endereco: github.com/des
-    timeout: 9000
+    timeout: 9001
     refresh: 11
